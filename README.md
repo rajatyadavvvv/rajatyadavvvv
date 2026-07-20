@@ -1,30 +1,31 @@
-<h1 align="center">Hi 👋, I'm Rajat Yadav</h1>
-<h3 align="center">Aspiring Data Engineer | AWS · Snowflake · dbt · Spark</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rajatyadavvvv&label=Profile%20Views&color=0e75b6&style=flat" alt="rajatyadavvvv" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rajat%20Yadav&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Data%20Engineer&descAlignY=62&descSize=18"/>
+
+<img src="https://komarev.com/ghpvc/?username=rajatyadavvvv&label=Profile%20Views&color=2a5298&style=flat-square" alt="rajatyadavvvv"/>
+
+</div>
 
 <br/>
 
-## About Me :
+## 👋 About Me
 
 <table>
 <tr><td>
 
-🔭 I'm currently working on **chart-selector-api** — a FastAPI service deployed on AWS ECS Fargate
+🔭&nbsp;&nbsp;I'm currently working on **chart-selector-api** — a FastAPI service deployed on AWS ECS Fargate
 
-👯 I'm looking to collaborate on cloud data pipeline / ETL-ELT projects
+👯&nbsp;&nbsp;I'm looking to collaborate on cloud data pipeline / ETL-ELT projects
 
-🤝 I'm looking for help with production-grade AWS cost optimization and CI/CD for containerized services
+🤝&nbsp;&nbsp;I'm looking for help with production-grade AWS cost optimization and CI/CD for containerized services
 
-🌱 I'm currently learning Spark internals — DAG execution, shuffle boundaries, Catalyst optimization
+🌱&nbsp;&nbsp;I'm currently learning Spark internals — DAG execution, shuffle boundaries, Catalyst optimization
 
-💬 Ask me about AWS (Glue, ECS, S3), Snowflake, dbt, or medallion architecture pipelines
+💬&nbsp;&nbsp;Ask me about AWS (Glue, ECS, S3), Snowflake, dbt, or medallion architecture pipelines
 
-📫 How to reach me: **rajatt.yadaavv@gmail.com**
+📫&nbsp;&nbsp;Reach me at **rajatt.yadaavv@gmail.com**
 
-⚡ Fun fact: *(send me one and I'll drop it in!)*
+⚡&nbsp;&nbsp;Fun fact: *(send me one and I'll drop it in!)*
 
 </td></tr>
 </table>
@@ -37,14 +38,22 @@
 <tr>
 <td width="50%" valign="top">
 
-**[chart-selector-api](https://github.com/rajatyadavvvv/chart-selector-api)**
+### 📊 chart-selector-api
 CSV in, the right chart out — FastAPI + matplotlib, containerized and deployed on AWS ECS Fargate.
+
+`Python` `FastAPI` `Docker` `AWS ECS/ECR`
+
+[→ view repo](https://github.com/rajatyadavvvv/chart-selector-api)
 
 </td>
 <td width="50%" valign="top">
 
-**[ecommerce-medallion-pipeline](https://github.com/rajatyadavvvv/ecommerce-medallion-pipeline)**
+### 🛒 ecommerce-medallion-pipeline
 Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and dbt.
+
+`AWS Glue` `PySpark` `Iceberg` `Snowflake` `dbt`
+
+[→ view repo](https://github.com/rajatyadavvvv/ecommerce-medallion-pipeline)
 
 </td>
 </tr>
@@ -54,9 +63,47 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pyspark,aws,snowflake,dbt,postgres,docker,fastapi,git" />
-</p>
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,sql,bash" />
+
+**Data & Distributed Processing**
+<br/>
+<img src="https://skillicons.dev/icons?i=pyspark,pandas,apache" />
+
+**Cloud — AWS**
+<br/>
+<img src="https://img.shields.io/badge/Glue-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Warehouse & Transformation**
+<br/>
+<img src="https://skillicons.dev/icons?i=snowflake" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Iceberg-0D1117?style=flat-square&logo=apache&logoColor=white"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+**Tools & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,fastapi" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -83,3 +130,5 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
