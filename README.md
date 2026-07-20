@@ -71,7 +71,9 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 
 **Data & Distributed Processing**
 <br/>
-<img src="https://skillicons.dev/icons?i=pyspark,pandas,apache" />
+<img src="https://skillicons.dev/icons?i=python,pandas" />
+<br/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
 **Cloud — AWS**
 <br/>
@@ -87,7 +89,7 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 
 **Warehouse & Transformation**
 <br/>
-<img src="https://skillicons.dev/icons?i=snowflake" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Iceberg-0D1117?style=flat-square&logo=apache&logoColor=white"/>
 
@@ -108,12 +110,12 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
@@ -130,5 +132,3 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
-
-not able to see the two images in the git hub stats
