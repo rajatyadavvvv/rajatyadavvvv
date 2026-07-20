@@ -71,7 +71,7 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 
 **Data & Distributed Processing**
 <br/>
-<img src="https://skillicons.dev/icons?i=pyspark,pandas,apache" />
+<img src="https://skillicons.dev/icons?i=python,pandas" />
 
 **Cloud — AWS**
 <br/>
@@ -108,12 +108,13 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
