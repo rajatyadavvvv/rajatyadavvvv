@@ -13,17 +13,17 @@
 <table>
 <tr><td>
 
-🔭&nbsp;&nbsp;I'm currently working on **chart-selector-api** — a FastAPI service deployed on AWS ECS Fargate
+🔭 I'm currently focused on **Data Engineering and Cloud Technologies**, designing scalable data pipelines and learning production-grade architectures
 
-👯&nbsp;&nbsp;I'm looking to collaborate on cloud data pipeline / ETL-ELT projects
+👯 I'm looking to collaborate on **Data Engineering, Cloud, and Python backend projects**
 
-🤝&nbsp;&nbsp;I'm looking for help with production-grade AWS cost optimization and CI/CD for containerized services
+🤝 I'm looking for help with **production-grade AWS architecture, CI/CD pipelines, Docker, Kubernetes, and scalable backend deployments**
 
-🌱&nbsp;&nbsp;I'm currently learning Spark internals — DAG execution, shuffle boundaries, Catalyst optimization
+🌱 I'm currently learning **Apache Spark, AWS Glue, Snowflake, dbt, Docker, Kubernetes, and distributed data processing**
 
-💬&nbsp;&nbsp;Ask me about AWS (Glue, ECS, S3), Snowflake, dbt, or medallion architecture pipelines
+💬 Ask me about **Python, SQL, FastAPI, AWS (Glue, ECS, S3, Lambda), Docker, Snowflake, dbt, and Data Engineering**
 
-📫&nbsp;&nbsp;Reach me at **rajatt.yadaavv@gmail.com**
+📫 Reach me at **rajatt.yadaavv@gmail.com**
 
 </td></tr>
 </table>
