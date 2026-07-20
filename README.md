@@ -25,8 +25,6 @@
 
 📫&nbsp;&nbsp;Reach me at **rajatt.yadaavv@gmail.com**
 
-⚡&nbsp;&nbsp;Fun fact: *(send me one and I'll drop it in!)*
-
 </td></tr>
 </table>
 
