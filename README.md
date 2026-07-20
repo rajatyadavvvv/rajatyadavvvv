@@ -69,6 +69,7 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 <br/>
 <img src="https://skillicons.dev/icons?i=python,bash" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
 **Data & Distributed Processing**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,pandas" />
