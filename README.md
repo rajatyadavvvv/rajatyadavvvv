@@ -71,7 +71,7 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 
 **Data & Distributed Processing**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,pandas" />
+<img src="https://skillicons.dev/icons?i=pyspark,pandas,apache" />
 
 **Cloud — AWS**
 <br/>
@@ -108,13 +108,12 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
@@ -131,3 +130,5 @@ Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
+
+not able to see the two images in the git hub stats
