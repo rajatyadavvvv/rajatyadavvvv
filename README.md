@@ -1,71 +1,85 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rajat Yadav</h1>
+<h3 align="center">Aspiring Data Engineer | AWS · Snowflake · dbt · Spark</h3>
 
-```
-$ whoami
-```
-
-# rajat yadav
-
-<p>
-<img src="https://img.shields.io/badge/status-building-black?style=flat-square&labelColor=000" />
-<img src="https://img.shields.io/badge/focus-data%20engineering-black?style=flat-square&labelColor=000" />
-<img src="https://img.shields.io/badge/stack-AWS%20%7C%20Snowflake%20%7C%20dbt-black?style=flat-square&labelColor=000" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rajatyadavvvv&label=Profile%20Views&color=0e75b6&style=flat" alt="rajatyadavvvv" />
 </p>
 
-</div>
+<br/>
+
+## About Me :
+
+<table>
+<tr><td>
+
+🔭 I'm currently working on **chart-selector-api** — a FastAPI service deployed on AWS ECS Fargate
+
+👯 I'm looking to collaborate on cloud data pipeline / ETL-ELT projects
+
+🤝 I'm looking for help with production-grade AWS cost optimization and CI/CD for containerized services
+
+🌱 I'm currently learning Spark internals — DAG execution, shuffle boundaries, Catalyst optimization
+
+💬 Ask me about AWS (Glue, ECS, S3), Snowflake, dbt, or medallion architecture pipelines
+
+📫 How to reach me: **rajatt.yadaavv@gmail.com**
+
+⚡ Fun fact: *(send me one and I'll drop it in!)*
+
+</td></tr>
+</table>
 
 <br/>
 
-```yaml
-role:        aspiring data engineer
-building:    cloud-native ETL/ELT pipelines
-stack:       python · pyspark · sql
-platform:    aws (glue, s3, rds, ecs, ecr, lambda)
-warehouse:   snowflake
-transform:   dbt
-now:         deploying chart-selector-api → ECS Fargate
-```
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[chart-selector-api](https://github.com/rajatyadavvvv/chart-selector-api)**
+CSV in, the right chart out — FastAPI + matplotlib, containerized and deployed on AWS ECS Fargate.
+
+</td>
+<td width="50%" valign="top">
+
+**[ecommerce-medallion-pipeline](https://github.com/rajatyadavvvv/ecommerce-medallion-pipeline)**
+Bronze → Silver → Gold pipeline using RDS, AWS Glue, Iceberg, Snowflake, and dbt.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## pipeline
+## 🛠️ Tech Stack
 
-```
-  raw data          transform            serve
-┌───────────┐    ┌──────────────┐    ┌───────────┐
-│  RDS / S3 │ ─▶ │ Glue + Spark │ ─▶ │ Snowflake │ ─▶  dbt  ─▶  Gold
-└───────────┘    └──────────────┘    └───────────┘
-     bronze            silver              gold
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pyspark,aws,snowflake,dbt,postgres,docker,fastapi,git" />
+</p>
 
 <br/>
 
-## projects
+## 📊 GitHub Stats
 
-```
-├── chart-selector-api
-│   FastAPI service · CSV in, chart out · deployed on ECS Fargate
-│   → github.com/rajatyadavvvv/chart-selector-api
-│
-└── ecommerce-medallion-pipeline
-    Bronze → Silver → Gold · RDS · Glue · Iceberg · Snowflake · dbt
-    → github.com/rajatyadavvvv/ecommerce-medallion-pipeline
-```
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&hide_border=true&hide_title=true&theme=transparent&text_color=888&icon_color=888&title_color=fff" height="150"/>
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
 
-```
-$ contact --linkedin rajat-yadav-73b853289 --email rajatt.yadaavv@gmail.com
-```
+## 🌐 Connect With Me
 
-<div align="center">
-<a href="https://linkedin.com/in/rajat-yadav-73b853289">linkedin</a>
-&nbsp;·&nbsp;
-<a href="mailto:rajatt.yadaavv@gmail.com">email</a>
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/rajat-yadav-73b853289" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rajatt.yadaavv@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
