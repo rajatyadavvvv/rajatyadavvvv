@@ -1,47 +1,56 @@
 <div align="center">
 
-<br/>
+```
+$ whoami
+```
 
 # rajat yadav
 
-**data engineer in the making**
-*aws · snowflake · dbt · spark*
-
-<br/>
+<p>
+<img src="https://img.shields.io/badge/status-building-black?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/focus-data%20engineering-black?style=flat-square&labelColor=000" />
+<img src="https://img.shields.io/badge/stack-AWS%20%7C%20Snowflake%20%7C%20dbt-black?style=flat-square&labelColor=000" />
+</p>
 
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-pyspark-000000?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/-aws-000000?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-snowflake-000000?style=flat-square&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/-dbt-000000?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/-docker-000000?style=flat-square&logo=docker&logoColor=white" />
-</p>
+<br/>
+
+```yaml
+role:        aspiring data engineer
+building:    cloud-native ETL/ELT pipelines
+stack:       python · pyspark · sql
+platform:    aws (glue, s3, rds, ecs, ecr, lambda)
+warehouse:   snowflake
+transform:   dbt
+now:         deploying chart-selector-api → ECS Fargate
+```
 
 <br/>
 
-I build cloud data pipelines from the ground up — ingestion, transformation, and
-everything in between. Currently deploying APIs to AWS ECS and going deep on
-Spark internals.
+## pipeline
+
+```
+  raw data          transform            serve
+┌───────────┐    ┌──────────────┐    ┌───────────┐
+│  RDS / S3 │ ─▶ │ Glue + Spark │ ─▶ │ Snowflake │ ─▶  dbt  ─▶  Gold
+└───────────┘    └──────────────┘    └───────────┘
+     bronze            silver              gold
+```
 
 <br/>
 
-### now
+## projects
 
-- deploying **chart-selector-api** to AWS ECS Fargate
-- studying Spark execution internals — DAGs, shuffles, Catalyst
-
-<br/>
-
-### projects
-
-**[chart-selector-api](https://github.com/rajatyadavvvv/chart-selector-api)**
-CSV in, the right chart out. FastAPI + matplotlib, containerized on ECS Fargate.
-
-**[ecommerce-medallion-pipeline](https://github.com/rajatyadavvvv/ecommerce-medallion-pipeline)**
-Bronze → Silver → Gold. RDS, Glue, Iceberg, Snowflake, dbt.
+```
+├── chart-selector-api
+│   FastAPI service · CSV in, chart out · deployed on ECS Fargate
+│   → github.com/rajatyadavvvv/chart-selector-api
+│
+└── ecommerce-medallion-pipeline
+    Bronze → Silver → Gold · RDS · Glue · Iceberg · Snowflake · dbt
+    → github.com/rajatyadavvvv/ecommerce-medallion-pipeline
+```
 
 <br/>
 
@@ -51,10 +60,12 @@ Bronze → Silver → Gold. RDS, Glue, Iceberg, Snowflake, dbt.
 
 <br/>
 
-<p align="center">
+```
+$ contact --linkedin rajat-yadav-73b853289 --email rajatt.yadaavv@gmail.com
+```
+
+<div align="center">
 <a href="https://linkedin.com/in/rajat-yadav-73b853289">linkedin</a>
 &nbsp;·&nbsp;
 <a href="mailto:rajatt.yadaavv@gmail.com">email</a>
-</p>
-
-<br/>
+</div>
