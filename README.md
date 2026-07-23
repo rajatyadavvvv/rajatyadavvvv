@@ -54,7 +54,7 @@ I hold a **B.Tech in Computer Science & Engineering 🎓** and I'm a **Data Engi
     <a href="https://linkedin.com/in/rajat-yadav-73b853289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-yadav" height="30" width="40" /></a>
 </p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-rajatt.yadaavv@gmail.com)
 
 <h3 align="left">💻 Tech Stack:</h3>
 
