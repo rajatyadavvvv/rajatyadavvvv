@@ -59,18 +59,6 @@ I'm a **Data Engineering student** based in Gurugram, India 🇮🇳, with a B.T
 
 *(Replace `#` with your actual repo links!)*
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatyadavvvv&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatyadavvvv&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatyadavvvv&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
