@@ -12,8 +12,7 @@ I'm a **Data Engineering student** based in Gurugram, India 🇮🇳, with a B.T
 - 🌱 Currently deepening: **Apache Spark internals** (Catalyst, Tungsten, AQE, shuffle & skew handling) for interview prep
 - 🛠️ Recently shipped: **Medallion architecture pipelines** (Bronze → Silver → Gold) using AWS Glue, Iceberg, Snowflake & dbt
 - 💬 Ask me about: ETL/ELT pipelines, AWS data infra, Snowflake, or dbt modeling
-- 📫 Reach me: **your-email@example.com** *(update this)*
-
+- 📫 Reach me: **rajatt.yadaavv@gmail.com**
 ---
 
 ### 🧰 Tech Stack
